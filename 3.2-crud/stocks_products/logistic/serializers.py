@@ -1,5 +1,4 @@
 from rest_framework import serializers
-
 from logistic.models import Product, StockProduct, Stock
 
 
